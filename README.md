@@ -5,12 +5,8 @@
 Surgery Compare is a comprehensive web platform developed by *Error 404 Team*. The project aims to bring transparency to the healthcare industry by allowing users to compare surgery costs across various hospitals in India. It provides patients with critical information about surgery rates, doctor reputations, hospital locations, and more, helping them make informed decisions about their medical treatments.
 
 ### *Team Members*
-- *Team Leader*: Apurva Jain
-- *Team Members*:
-  - Ananays Shandilya
-  - Prakhar Awasthi
-  - Aniket Srivastava
-
+-  Apurva Jain
+-
 ### *Motivation*
 
 Many middle-class people face challenges when coming to big cities for surgery, often falling into the traps of expensive hospitals. This platform provides transparency, offering a solution that can help save lives by enabling patients to choose cost-effective and reliable healthcare options.
